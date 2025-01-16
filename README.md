@@ -1,4 +1,4 @@
-# COMP01234 - coursework repository
+# COMP0123 - coursework repository
 
 This repository contains the code for the COMP01234 coursework. Below is a list of the tasks and the corresponding Jupyter notebooks for each experiment and result:
 
